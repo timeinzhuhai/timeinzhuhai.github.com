@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 珠海英语口语集结号！
-tagline: 
+title: 英语口语集结号！
+tagline: 我们一起练口语吧！
 ---
 {% include JB/setup %}
 
