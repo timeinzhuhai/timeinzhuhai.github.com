@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: 珠海英语口语集结号！
 tagline: 
 ---
 {% include JB/setup %}
@@ -9,6 +9,6 @@ tagline:
 
 <ul class="posts">
   {% for post in site.posts %}
-    <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><p>{{ post.content | split:'<!--more-->' |first }}</p></li>
   {% endfor %}
 </ul>
