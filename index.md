@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 英语口语集结号！
-tagline: 我们一起练口语吧！
+tagline: 
 ---
 {% include JB/setup %}
 
