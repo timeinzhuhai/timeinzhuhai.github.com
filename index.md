@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 活动信息
+title: 一起练口语吧！
 tagline: 
 ---
 {% include JB/setup %}
