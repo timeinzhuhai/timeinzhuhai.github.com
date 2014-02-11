@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 英语口语集结号！
+title: 活动信息
 tagline: 
 ---
 {% include JB/setup %}
