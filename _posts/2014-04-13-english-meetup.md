@@ -22,6 +22,7 @@ tags: []
 【召集对象】：能遵守组织纪律的英语爱好者
 
 【集合地点】：香洲总站对面麦当劳门口集合，周日晚上19:05集合
+
              （守时是一种好习惯！）
 
 【活动地点】：大教室
@@ -31,19 +32,28 @@ tags: []
 【报名网址】：www.zh-rr.com(珠海英语论坛 活动版块）
 
 【活动说明】：本活动为定期活动，每周日19：30-21：00
+
               有兴趣参加的朋友，欢迎网上报名。
+              
               同时会进行Q群通知网站学习资料更新，方便分享、学习。
               
  珠海英语学习交流QQ群:236554999
+ 
  珠海英语论坛官方微信二维码已正式启用
+ 
  可通过手机微信第一时间获取最新的英语学习资讯及英语活动信息
+ 
  也可到群文件分享处下载珠海英语论坛手机客户端软件，可随时获得珠海英语论坛活动的最新信息。
 
  【活动流程】：
  Topic: Friends  朋友
+ 
  Do youoften spend time with friends?
+ 
  Did you meet most of friends through school/work?
+ 
  Do you and your friends have similar hobbies and interests?
+ 
  Do youspend more of your free time with friends or with family?
   
  1.简单英语自我介绍；
